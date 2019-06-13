@@ -198,3 +198,7 @@ footer {
 .contact p {
     margin-bottom: 4px;
 }
+
+.shipin:hover{
+	box-shadow: inset 7px 7px 20px gray;
+}
